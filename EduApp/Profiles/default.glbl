@@ -14,4 +14,14 @@
       <initValue>'App/app-pendaki.apk'</initValue>
       <name>appDaki</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'App/Shop-Samsung.apk'</initValue>
+      <name>appSam</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'App/Happy-Day-Shopping.apk'</initValue>
+      <name>appHap</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
